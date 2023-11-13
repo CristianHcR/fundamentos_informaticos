@@ -41,7 +41,8 @@ A continuación un ejemplo del modelo de Von Neumann describe el funcionamiento 
 
 El diagrama proporcionado en la introducción ilustra visualmente la conexión entre estos componentes en el modelo de Von Neumann. La interconexión de la CPU, la memoria y la unidad de control permite la ejecución secuencial de instrucciones, lo que forma la base de la mayoría de las arquitecturas de computadoras modernas.
 
-### 2. Jerarquía de Memoria
+
+<!-- ### 2. Jerarquía de Memoria
 
 La jerarquía de memoria es un concepto clave en arquitectura de computadoras. Se refiere a la organización de diferentes niveles de memoria, desde registros en la CPU hasta memoria principal y almacenamiento secundario. La velocidad y capacidad de cada nivel varían, y la gestión eficiente de la jerarquía de memoria es crucial para mejorar el rendimiento del sistema.
 
